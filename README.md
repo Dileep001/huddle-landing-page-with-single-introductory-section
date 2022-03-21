@@ -19,3 +19,12 @@ Users should be able to:
 
 ### What I learned
 Another great experience of implementing HTML,CSS skills to this project
+ -Responsive web design
+### Links
+
+- Solution URL: https://github.com/Dileep001/huddle-landing-page-with-single-introductory-section
+- Live Site URL: https://dileep001.github.io/huddle-landing-page-with-single-introductory-section/
+
+## Author
+
+- Frontend Mentor - [@Dileep001](https://www.frontendmentor.io/profile/Dileep001)
